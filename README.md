@@ -24,5 +24,5 @@ A powerful, **keyless** Roblox script designed to help people with a high-qualit
 To use this script, copy the loadstring below into your preferred executor (e.g., Solara, Wave, or Hydrogen):
 
 ```lua
--- [[ KALI X | UNIVERSAL ]] --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/whitehackergeo/ROBLOX/refs/heads/main/loader.lua"))
+-- [[ WHITE HACKER LOADER SCRIPT ]] --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/whitehackergeo/ROBLOX/refs/heads/main/loader.lua"))()
